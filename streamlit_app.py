@@ -54,7 +54,7 @@ if uploaded_file is not None:
     if prediction == labels[0]:
          st.write("중냉 꿋굿")
     elif prediction == labels[1]:
-         st.write("짜장면은 굿")
+         st.write("짜장면 개 쌈@뽕하긔")
     elif prediction == labels[2]:
          st.write("짬뽕은 맵지만 맛있어!!")
 
